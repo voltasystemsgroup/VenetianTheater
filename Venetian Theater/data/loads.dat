@@ -1,0 +1,26 @@
+File Version	v3.03.00
+Modified Date	08/19/2019
+Modified Time	19:29:02
+
+LoadID	LoadName	RoomID	DIM_setting	Ramp_time	Upper_limit	Lower_limit	TotalWattage
+7	L3 Bar Undr Conter LED	2	True	500	100	1	100
+8	Bar Bottle Hall 1	2	True	500	100	1	100
+9	Bar Bottle Hall 2	2	True	500	100	1	100
+10	Bar Bottle Hall Matr	2	True	500	100	1	100
+11	Down Lights @ Bar Pie Wall	2	True	500	100	1	100
+12	Down Lights @ Roll Down	2	True	500	100	1	100
+13	Down Lights 1 z-26	2	True	500	100	1	100
+14	Down Lights 2 z-26	2	True	500	100	1	100
+15	Bar Down Lights Over bar	2	True	500	100	1	100
+16	Wall Wash Hall	2	True	500	100	1	100
+17	Spare 1	2	True	500	100	1	100
+18	Spare 2	2	True	500	100	1	100
+19	Bar Mirror Ceiling Love 1 z-23	2	True	500	100	1	100
+20	bar Mirror Ceiling Love 2 z-23	2	True	500	100	1	100
+21	Mirror Lights 1 z-27	2	True	500	100	1	100
+26	Mirror Lights 2 z-27	2	True	500	100	1	100
+30	3 Lights @ Entrance	1	True	500	100	1	100
+31	Retail Down Lights 1	1	True	500	100	1	100
+32	Retail Down Lights 2	1	True	500	100	1	100
+34	Double Door	3	True	500	100	1	50
+

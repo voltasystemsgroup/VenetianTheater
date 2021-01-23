@@ -1,0 +1,15 @@
+<Device Model="DIN-AP3">
+   <Network Type="Cresnet" Id="01">
+      <Device Model="CLX-2DIMU8,CLX-2DIMU8-277,CLXI-2DIMU8,CLXI-2DIMU8-277" DeviceId="03" Name="Enclosure 1 Slot 07"/>
+      <Device Model="CLX-2DIMFLV8,CLXI-2DIMFLV8" DeviceId="04" Name="Enclosure 1 Slot 05">
+         <Network Type="Cresnet"/>
+      </Device>
+      <Device Model="CLX-2DIMFLV8,CLXI-2DIMFLV8" DeviceId="05" Name="Enclosure 1 Slot 03">
+         <Network Type="Cresnet"/>
+      </Device>
+      <Device Model="CLX-2DIMU8,CLX-2DIMU8-277,CLXI-2DIMU8,CLXI-2DIMU8-277" DeviceId="06" Name="Enclosure 1 Slot 01"/>
+      <Device Model="C2N-CBD-E" DeviceId="07"/>
+      <Device Model="CNX-B4" DeviceId="08"/>
+   </Network>
+   <Network Type="Ethernet" Id="02"/>
+</Device>
